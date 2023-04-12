@@ -4,4 +4,4 @@ env.app_lang = "angular"
 env.component = "frontend"
 
 
-ci()
+ci_scripted()
