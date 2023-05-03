@@ -2,5 +2,5 @@ component : frontend
 params: ""
 
 service:
-  type: ClusterIP
+  type: LoadBalancer
   port: 8080
