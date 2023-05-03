@@ -1,2 +1,6 @@
 component : frontend
-params:
+params: ""
+
+service:
+  type: ClusterIP
+  port: 8080
